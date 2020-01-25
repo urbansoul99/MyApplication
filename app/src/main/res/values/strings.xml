@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="take_picture">TAKE PICTURE</string>
+    <string name="scanner">SCANNER</string>
+    <string name="todo">TODO</string>
+    <string name="login_successfully">Login SuccessFully</string>
+    <string name="logout">LOGOUT</string>
+    <string name="user_login_screen">User Login Screen</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">Log IN</string>
+    <string name="not_log_in_register_from_here">Not Log IN | Register From here</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="user_registration">User Registration</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="register_from_here">Register From here</string>
+</resources>
