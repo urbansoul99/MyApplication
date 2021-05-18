@@ -1,7 +1,7 @@
-# MyApplication
+# VirtualTouristGuide
 
-Virtual Tourist Guide Prototype for SIH2020
+Virtual Tourist Guide is Prototype App for Smart India Hackathon 2020
 
-## A project by Team Cyborg Army
+- By scanning any places or monuments through camera, information about it and nearby places can be presented to the user.
 
-### Changes By RedStar
+### A project by Team Cyborg Army
